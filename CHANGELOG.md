@@ -9,4 +9,5 @@ adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
 ### Added
 
+- Added MLflow-compatible file-based experiment tracker (`Tracker`, fluent API, filter/order_by search, deterministic static site generator, and CLI compare command).
 - Initial project structure from the factory utility template.
